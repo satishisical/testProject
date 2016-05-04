@@ -7,6 +7,7 @@ puts "Do you like me #{user_name}? "
 puts prompt
 likes = $stdin.gets.chomp
 
+# Comments on git
 puts "Where do you live #{user_name}? "
 puts prompt
 lives = $stdin.gets.chomp
