@@ -9,11 +9,7 @@ ghjkk
 
 int main(void)
 {
-   int i;
-   char *s[] = 
-   {
-      "Git tutorials",
-      "Tutorials Point"
+   int i;Point"
    };
 
    for (i = 0; i < 2; ++i)
