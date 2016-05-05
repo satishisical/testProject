@@ -10,6 +10,8 @@ size_t my_strlen(char *s)
    return (p - s);
 }
 
+ghjkk
+
 int main(void)
 {
    int i;
